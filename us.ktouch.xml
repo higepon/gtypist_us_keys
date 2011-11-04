@@ -2,6 +2,19 @@
  <Title>US keyboard Lessons</Title>
  <Levels>
   <Level>
+   <NewCharacters>"()</NewCharacters>
+   <Line>for (int i = 0; ; i++) { </Line>
+   <Line>for (int i = 0; ; i++) { </Line>
+   <Line>for (int i = 0; ; i++) { </Line>
+   <Line>for (int i = 0; ; i++) { </Line>
+   <Line>if (x) {</Line>
+   <Line>if (x) {</Line>
+   <Line>if (x) {</Line>
+   <Line>func();</Line>
+   <Line>func();</Line>
+   <Line>func();</Line>
+  </Level>
+  <Level>
    <NewCharacters>@</NewCharacters>
    <Line>@foo @bar higepon@exmaple.com</Line>
    <Line>@foo @bar higepon@exmaple.com</Line>
