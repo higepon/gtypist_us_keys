@@ -1,0 +1,17 @@
+<KTouchLecture>
+ <Title>US keyboard Lessons</Title>
+ <Levels>
+  <Level>
+   <NewCharacters>@</NewCharacters>
+   <Line>@foo @bar higepon@exmaple.com</Line>
+   <Line>@foo @bar higepon@exmaple.com</Line>
+   <Line>@foo @bar higepon@exmaple.com</Line>
+  </Level>
+  <Level>
+   <NewCharacters>"()</NewCharacters>
+   <Line>printf("hello");</Line>
+   <Line>printf("hello");</Line>
+   <Line>printf("hello");</Line>
+  </Level>
+ </Levels>
+</KTouchLecture>
