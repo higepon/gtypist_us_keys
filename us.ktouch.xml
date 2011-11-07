@@ -2,11 +2,47 @@
  <Title>US keyboard Lessons</Title>
  <Levels>
   <Level>
+   <NewCharacters>=+</NewCharacters>
+   <Line>a = b b = c c = d d = e e = f f = g g = h h = i i = j j = k k = l l = m m = n n = o</Line>
+   <Line>a = b b = c c = d d = e e = f f = g g = h h = i i = j j = k k = l l = m m = n n = o</Line>
+   <Line>a = b b = c c = d d = e e = f f = g g = h h = i i = j j = k k = l l = m m = n n = o</Line>
+   <Line>a = b b = c c = d d = e e = f f = g g = h h = i i = j j = k k = l l = m m = n n = o</Line>
+  </Level>
+  <Level>
+   <NewCharacters>++</NewCharacters>
+   <Line>a + b b + c c + d d + e e + f f + g g + h h + i i + j j + k k + l l + m m + n n + o</Line>
+   <Line>a + b b + c c + d d + e e + f f + g g + h h + i i + j j + k k + l l + m m + n n + o</Line>
+   <Line>a + b b + c c + d d + e e + f f + g g + h h + i i + j j + k k + l l + m m + n n + o</Line>
+   <Line>a + b b + c c + d d + e e + f f + g g + h h + i i + j j + k k + l l + m m + n n + o</Line>
+  </Level>
+  <Level>
+   <NewCharacters>()</NewCharacters>
+   <Line>(abc) (def) (ghi) (jkl) (mno) (pqr) (stu) (vwx) (yz)</Line>
+   <Line>(abc) (def) (ghi) (jkl) (mno) (pqr) (stu) (vwx) (yz)</Line>
+   <Line>(abc) (def) (ghi) (jkl) (mno) (pqr) (stu) (vwx) (yz)</Line>
+   <Line>(abc) (def) (ghi) (jkl) (mno) (pqr) (stu) (vwx) (yz)</Line>
+  </Level>
+  <Level>
+   <NewCharacters>{}</NewCharacters>
+   <Line>{abc} {def} {ghi} {jkl} {mno} {pqr} {stu} {vwx} {yz}</Line>
+   <Line>{abc} {def} {ghi} {jkl} {mno} {pqr} {stu} {vwx} {yz}</Line>
+   <Line>{abc} {def} {ghi} {jkl} {mno} {pqr} {stu} {vwx} {yz}</Line>
+   <Line>{abc} {def} {ghi} {jkl} {mno} {pqr} {stu} {vwx} {yz}</Line>
+  </Level>
+  <Level>
+  <Level>
+   <NewCharacters>""</NewCharacters>
+   <Line>"abc" "def" "ghi" "jkl" "mno" "pqr" "stu" "vwx" "yz"</Line>
+   <Line>"abc" "def" "ghi" "jkl" "mno" "pqr" "stu" "vwx" "yz"</Line>
+   <Line>"abc" "def" "ghi" "jkl" "mno" "pqr" "stu" "vwx" "yz"</Line>
+   <Line>"abc" "def" "ghi" "jkl" "mno" "pqr" "stu" "vwx" "yz"</Line>
+  </Level>
    <NewCharacters>"()</NewCharacters>
-   <Line>for (int i = 0; ; i++) { </Line>
-   <Line>for (int i = 0; ; i++) { </Line>
-   <Line>for (int i = 0; ; i++) { </Line>
-   <Line>for (int i = 0; ; i++) { </Line>
+   <Line>for (int i = 0; ; i++) { func(); }</Line>
+   <Line>for (int i = 0; ; i++) { func(); }</Line>
+   <Line>for (int i = 0; ; i++) { func(); }</Line>
+   <Line>for (int i = 0; ; i++) { func(); }</Line>
+   <Line>for (int i = 0; ; i++) { func(); }</Line>
    <Line>if (x) {</Line>
    <Line>if (x) {</Line>
    <Line>if (x) {</Line>
